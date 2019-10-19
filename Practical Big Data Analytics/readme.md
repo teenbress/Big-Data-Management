@@ -1,7 +1,7 @@
-# Introduction for kinds of Database and big data tools.
+# The book include but are not limited to:
 ### - Big Data with Hadoop
 ### - Big Data Mining with NoSQL
 ### - Spark for Big Data Analytics
-### - Some basic machine Learning with R
+### - Machine Learning with R
 
-I think it's a basic book to understand some concepts for database, not too much code, some of the code have errors.
+It's a good book to understanding the basic concepts of SQL and NoSQL database, but not too much details.
